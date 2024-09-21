@@ -1,3 +1,12 @@
-# Ignore IntelliSense and Visual Studio files
+# 빌드된 파일 무시
+*.exe
+*.dll
+*.pdb
+*.o
+*.obj
+*.so
+*.a
 *.ipch
 .vs/
+bin/
+obj/
