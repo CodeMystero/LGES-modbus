@@ -1,0 +1,53 @@
+C:\code\LGES-Modbus\LGES-Modbus\modbucTCPinterop\obj\x64\Debug\modbusTCPinterop.csproj.AssemblyReference.cache
+C:\code\LGES-Modbus\LGES-Modbus\modbucTCPinterop\obj\x64\Debug\modbucTCPinterop.Form1.resources
+C:\code\LGES-Modbus\LGES-Modbus\modbucTCPinterop\obj\x64\Debug\modbucTCPinterop.Properties.Resources.resources
+C:\code\LGES-Modbus\LGES-Modbus\modbucTCPinterop\obj\x64\Debug\modbusTCPinterop.csproj.GenerateResource.cache
+C:\code\LGES-Modbus\LGES-Modbus\modbucTCPinterop\obj\x64\Debug\modbusTCPinterop.csproj.CoreCompileInputs.cache
+C:\code\LGES-Modbus\LGES-Modbus\modbucTCPinterop\bin\x64\Debug\modbucTCPinterop.exe.config
+C:\code\LGES-Modbus\LGES-Modbus\modbucTCPinterop\bin\x64\Debug\modbucTCPinterop.exe
+C:\code\LGES-Modbus\LGES-Modbus\modbucTCPinterop\bin\x64\Debug\modbucTCPinterop.pdb
+C:\code\LGES-Modbus\LGES-Modbus\modbucTCPinterop\bin\x64\Debug\DevExpress.Data.Desktop.v22.2.dll
+C:\code\LGES-Modbus\LGES-Modbus\modbucTCPinterop\bin\x64\Debug\DevExpress.Data.v22.2.dll
+C:\code\LGES-Modbus\LGES-Modbus\modbucTCPinterop\bin\x64\Debug\DevExpress.Drawing.v22.2.dll
+C:\code\LGES-Modbus\LGES-Modbus\modbucTCPinterop\bin\x64\Debug\DevExpress.Printing.v22.2.Core.dll
+C:\code\LGES-Modbus\LGES-Modbus\modbucTCPinterop\bin\x64\Debug\DevExpress.Sparkline.v22.2.Core.dll
+C:\code\LGES-Modbus\LGES-Modbus\modbucTCPinterop\bin\x64\Debug\DevExpress.Utils.v22.2.dll
+C:\code\LGES-Modbus\LGES-Modbus\modbucTCPinterop\bin\x64\Debug\DevExpress.XtraEditors.v22.2.dll
+C:\code\LGES-Modbus\LGES-Modbus\modbucTCPinterop\bin\x64\Debug\modbusTCPwrapper.dll
+C:\code\LGES-Modbus\LGES-Modbus\modbucTCPinterop\bin\x64\Debug\DevExpress.Pdf.v22.2.Core.dll
+C:\code\LGES-Modbus\LGES-Modbus\modbucTCPinterop\bin\x64\Debug\DevExpress.Pdf.v22.2.Drawing.dll
+C:\code\LGES-Modbus\LGES-Modbus\modbucTCPinterop\bin\x64\Debug\modbusTCPwrapper.pdb
+C:\code\LGES-Modbus\LGES-Modbus\modbucTCPinterop\bin\x64\Debug\DevExpress.Data.Desktop.v22.2.xml
+C:\code\LGES-Modbus\LGES-Modbus\modbucTCPinterop\bin\x64\Debug\DevExpress.Data.v22.2.xml
+C:\code\LGES-Modbus\LGES-Modbus\modbucTCPinterop\bin\x64\Debug\DevExpress.Printing.v22.2.Core.xml
+C:\code\LGES-Modbus\LGES-Modbus\modbucTCPinterop\bin\x64\Debug\DevExpress.Sparkline.v22.2.Core.xml
+C:\code\LGES-Modbus\LGES-Modbus\modbucTCPinterop\bin\x64\Debug\DevExpress.Utils.v22.2.xml
+C:\code\LGES-Modbus\LGES-Modbus\modbucTCPinterop\bin\x64\Debug\DevExpress.XtraEditors.v22.2.xml
+C:\code\LGES-Modbus\LGES-Modbus\modbucTCPinterop\bin\x64\Debug\DevExpress.Pdf.v22.2.Core.xml
+C:\code\LGES-Modbus\LGES-Modbus\modbucTCPinterop\bin\x64\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+C:\code\LGES-Modbus\LGES-Modbus\modbucTCPinterop\obj\x64\Debug\modbusTC.389C023C.Up2Date
+C:\code\LGES-Modbus\LGES-Modbus\modbucTCPinterop\obj\x64\Debug\modbucTCPinterop.exe
+C:\code\LGES-Modbus\LGES-Modbus\modbucTCPinterop\obj\x64\Debug\modbucTCPinterop.pdb
+C:\Users\seung\OneDrive\바탕 화면\LGES-Modbus\modbucTCPinterop\obj\x64\Debug\modbusTCPinterop.csproj.AssemblyReference.cache
+C:\Users\seung\OneDrive\바탕 화면\LGES-Modbus\modbucTCPinterop\obj\x64\Debug\modbucTCPinterop.Form1.resources
+C:\Users\seung\OneDrive\바탕 화면\LGES-Modbus\modbucTCPinterop\obj\x64\Debug\modbucTCPinterop.Properties.Resources.resources
+C:\Users\seung\OneDrive\바탕 화면\LGES-Modbus\modbucTCPinterop\obj\x64\Debug\modbusTCPinterop.csproj.GenerateResource.cache
+C:\Users\seung\OneDrive\바탕 화면\LGES-Modbus\modbucTCPinterop\obj\x64\Debug\modbusTCPinterop.csproj.CoreCompileInputs.cache
+C:\Users\seung\OneDrive\바탕 화면\LGES-Modbus\modbucTCPinterop\bin\x64\Debug\modbucTCPinterop.exe.config
+C:\Users\seung\OneDrive\바탕 화면\LGES-Modbus\modbucTCPinterop\bin\x64\Debug\modbucTCPinterop.exe
+C:\Users\seung\OneDrive\바탕 화면\LGES-Modbus\modbucTCPinterop\bin\x64\Debug\modbucTCPinterop.pdb
+C:\Users\seung\OneDrive\바탕 화면\LGES-Modbus\modbucTCPinterop\bin\x64\Debug\modbusTCPwrapper.dll
+C:\Users\seung\OneDrive\바탕 화면\LGES-Modbus\modbucTCPinterop\bin\x64\Debug\DevExpress.Pdf.v22.2.Core.dll
+C:\Users\seung\OneDrive\바탕 화면\LGES-Modbus\modbucTCPinterop\bin\x64\Debug\DevExpress.Pdf.v22.2.Drawing.dll
+C:\Users\seung\OneDrive\바탕 화면\LGES-Modbus\modbucTCPinterop\bin\x64\Debug\modbusTCPwrapper.pdb
+C:\Users\seung\OneDrive\바탕 화면\LGES-Modbus\modbucTCPinterop\bin\x64\Debug\DevExpress.Data.Desktop.v22.2.xml
+C:\Users\seung\OneDrive\바탕 화면\LGES-Modbus\modbucTCPinterop\bin\x64\Debug\DevExpress.Data.v22.2.xml
+C:\Users\seung\OneDrive\바탕 화면\LGES-Modbus\modbucTCPinterop\bin\x64\Debug\DevExpress.Printing.v22.2.Core.xml
+C:\Users\seung\OneDrive\바탕 화면\LGES-Modbus\modbucTCPinterop\bin\x64\Debug\DevExpress.Sparkline.v22.2.Core.xml
+C:\Users\seung\OneDrive\바탕 화면\LGES-Modbus\modbucTCPinterop\bin\x64\Debug\DevExpress.Utils.v22.2.xml
+C:\Users\seung\OneDrive\바탕 화면\LGES-Modbus\modbucTCPinterop\bin\x64\Debug\DevExpress.XtraEditors.v22.2.xml
+C:\Users\seung\OneDrive\바탕 화면\LGES-Modbus\modbucTCPinterop\bin\x64\Debug\DevExpress.Pdf.v22.2.Core.xml
+C:\Users\seung\OneDrive\바탕 화면\LGES-Modbus\modbucTCPinterop\bin\x64\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+C:\Users\seung\OneDrive\바탕 화면\LGES-Modbus\modbucTCPinterop\obj\x64\Debug\modbusTC.389C023C.Up2Date
+C:\Users\seung\OneDrive\바탕 화면\LGES-Modbus\modbucTCPinterop\obj\x64\Debug\modbucTCPinterop.exe
+C:\Users\seung\OneDrive\바탕 화면\LGES-Modbus\modbucTCPinterop\obj\x64\Debug\modbucTCPinterop.pdb

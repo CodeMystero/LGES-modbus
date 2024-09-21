@@ -1,0 +1,148 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\seung\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\LGES-Modbus\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{89393EB1-49F5-4BDA-BBC7-28D4C2C90E8F}|modbusTCPwrapper\\modbusTCPwrapper.vcxproj|C:\\Users\\seung\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\LGES-Modbus\\modbusTCPwrapper\\modbusTCPwrapper.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{89393EB1-49F5-4BDA-BBC7-28D4C2C90E8F}|modbusTCPwrapper\\modbusTCPwrapper.vcxproj|solutionrelative:modbusTCPwrapper\\modbusTCPwrapper.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89393EB1-49F5-4BDA-BBC7-28D4C2C90E8F}|modbusTCPwrapper\\modbusTCPwrapper.vcxproj|C:\\Users\\seung\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\LGES-Modbus\\modbusTCPwrapper\\modbusTCPwrapper.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{89393EB1-49F5-4BDA-BBC7-28D4C2C90E8F}|modbusTCPwrapper\\modbusTCPwrapper.vcxproj|solutionrelative:modbusTCPwrapper\\modbusTCPwrapper.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30A560A1-7EB2-476D-AE2A-3CA5C3532E57}|modebusTCPnative\\modebusTCPnative.vcxproj|C:\\Users\\seung\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\LGES-Modbus\\modebusTCPnative\\modbusTCPnative.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{30A560A1-7EB2-476D-AE2A-3CA5C3532E57}|modebusTCPnative\\modebusTCPnative.vcxproj|solutionrelative:modebusTCPnative\\modbusTCPnative.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30A560A1-7EB2-476D-AE2A-3CA5C3532E57}|modebusTCPnative\\modebusTCPnative.vcxproj|C:\\Users\\seung\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\LGES-Modbus\\modebusTCPnative\\modbusTCPnative.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{30A560A1-7EB2-476D-AE2A-3CA5C3532E57}|modebusTCPnative\\modebusTCPnative.vcxproj|solutionrelative:modebusTCPnative\\modbusTCPnative.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFBBE114-9E77-4DB8-8984-4D90394D435A}|modbucTCPinterop\\modbusTCPinterop.csproj|C:\\Users\\seung\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\LGES-Modbus\\modbuctcpinterop\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFBBE114-9E77-4DB8-8984-4D90394D435A}|modbucTCPinterop\\modbusTCPinterop.csproj|solutionrelative:modbuctcpinterop\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFBBE114-9E77-4DB8-8984-4D90394D435A}|modbucTCPinterop\\modbusTCPinterop.csproj|C:\\Users\\seung\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\LGES-Modbus\\modbuctcpinterop\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{BFBBE114-9E77-4DB8-8984-4D90394D435A}|modbucTCPinterop\\modbusTCPinterop.csproj|solutionrelative:modbuctcpinterop\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFBBE114-9E77-4DB8-8984-4D90394D435A}|modbucTCPinterop\\modbucTCPinterop.csproj|C:\\Users\\seung\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\LGES-Modbus\\modbuctcpinterop\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{BFBBE114-9E77-4DB8-8984-4D90394D435A}|modbucTCPinterop\\modbucTCPinterop.csproj|solutionrelative:modbuctcpinterop\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFBBE114-9E77-4DB8-8984-4D90394D435A}|modbucTCPinterop\\modbucTCPinterop.csproj|C:\\Users\\seung\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\LGES-Modbus\\modbuctcpinterop\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BFBBE114-9E77-4DB8-8984-4D90394D435A}|modbucTCPinterop\\modbucTCPinterop.csproj|solutionrelative:modbuctcpinterop\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\seung\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\LGES-Modbus\\modbucTCPinterop\\Form1.cs",
+              "RelativeDocumentMoniker": "modbucTCPinterop\\Form1.cs",
+              "ToolTip": "C:\\Users\\seung\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\LGES-Modbus\\modbucTCPinterop\\Form1.cs",
+              "RelativeToolTip": "modbucTCPinterop\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGAAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T05:32:31.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\seung\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\LGES-Modbus\\modbucTCPinterop\\App.config",
+              "RelativeDocumentMoniker": "modbucTCPinterop\\App.config",
+              "ToolTip": "C:\\Users\\seung\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\LGES-Modbus\\modbucTCPinterop\\App.config",
+              "RelativeToolTip": "modbucTCPinterop\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-09-20T05:32:33.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\seung\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\LGES-Modbus\\modbucTCPinterop\\App.config",
+              "RelativeDocumentMoniker": "modbucTCPinterop\\App.config",
+              "ToolTip": "C:\\Users\\seung\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\LGES-Modbus\\modbucTCPinterop\\App.config",
+              "RelativeToolTip": "modbucTCPinterop\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-07-17T03:56:26.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\seung\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\LGES-Modbus\\modbucTCPinterop\\Form1.cs",
+              "RelativeDocumentMoniker": "modbucTCPinterop\\Form1.cs",
+              "ToolTip": "C:\\code\\LGES-Modbus\\LGES-Modbus\\modbucTCPinterop\\Form1.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\code\\LGES-Modbus\\LGES-Modbus\\modbucTCPinterop\\Form1.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T03:39:45.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "modbusTCPnative.cpp",
+              "DocumentMoniker": "C:\\Users\\seung\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\LGES-Modbus\\modebusTCPnative\\modbusTCPnative.cpp",
+              "RelativeDocumentMoniker": "modebusTCPnative\\modbusTCPnative.cpp",
+              "ToolTip": "C:\\Users\\seung\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\LGES-Modbus\\modebusTCPnative\\modbusTCPnative.cpp",
+              "RelativeToolTip": "modebusTCPnative\\modbusTCPnative.cpp",
+              "ViewState": "AQIAAKsAAAAAAAAAAAAAAIcAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-15T05:46:57.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "modbusTCPnative.h",
+              "DocumentMoniker": "C:\\Users\\seung\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\LGES-Modbus\\modebusTCPnative\\modbusTCPnative.h",
+              "RelativeDocumentMoniker": "modebusTCPnative\\modbusTCPnative.h",
+              "ToolTip": "C:\\Users\\seung\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\LGES-Modbus\\modebusTCPnative\\modbusTCPnative.h",
+              "RelativeToolTip": "modebusTCPnative\\modbusTCPnative.h",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAADMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-17T00:06:24.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "modbusTCPwrapper.h",
+              "DocumentMoniker": "C:\\Users\\seung\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\LGES-Modbus\\modbusTCPwrapper\\modbusTCPwrapper.h",
+              "RelativeDocumentMoniker": "modbusTCPwrapper\\modbusTCPwrapper.h",
+              "ToolTip": "C:\\Users\\seung\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\LGES-Modbus\\modbusTCPwrapper\\modbusTCPwrapper.h",
+              "RelativeToolTip": "modbusTCPwrapper\\modbusTCPwrapper.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-17T00:12:38.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "modbusTCPwrapper.cpp",
+              "DocumentMoniker": "C:\\Users\\seung\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\LGES-Modbus\\modbusTCPwrapper\\modbusTCPwrapper.cpp",
+              "RelativeDocumentMoniker": "modbusTCPwrapper\\modbusTCPwrapper.cpp",
+              "ToolTip": "C:\\Users\\seung\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\LGES-Modbus\\modbusTCPwrapper\\modbusTCPwrapper.cpp",
+              "RelativeToolTip": "modbusTCPwrapper\\modbusTCPwrapper.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGUAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-17T00:13:01.139Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

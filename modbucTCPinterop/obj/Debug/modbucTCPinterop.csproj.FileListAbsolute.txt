@@ -1,0 +1,5 @@
+C:\code\LGES-Modbus\LGES-Modbus\modbucTCPinterop\obj\Debug\modbucTCPinterop.csproj.AssemblyReference.cache
+C:\code\LGES-Modbus\LGES-Modbus\modbucTCPinterop\obj\Debug\modbucTCPinterop.Form1.resources
+C:\code\LGES-Modbus\LGES-Modbus\modbucTCPinterop\obj\Debug\modbucTCPinterop.Properties.Resources.resources
+C:\code\LGES-Modbus\LGES-Modbus\modbucTCPinterop\obj\Debug\modbucTCPinterop.csproj.GenerateResource.cache
+C:\code\LGES-Modbus\LGES-Modbus\modbucTCPinterop\obj\Debug\modbucTCPinterop.csproj.CoreCompileInputs.cache

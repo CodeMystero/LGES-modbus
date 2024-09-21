@@ -1,0 +1,50 @@
+ImageRuntimeVersion: v4.0.30319
+Assembly modbusTCPwrapper, Version=1.0.*, Culture=고정 언어(고정 국가): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class wrapperModbusTCP.connectionWrapper: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(System.String, Int32): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Interfaces:
+    System.IDisposable
+  Methods:
+    connectWrapper(): PrivateScope, Public, HideBySig
+    disconectWrapper(): PrivateScope, Public, HideBySig
+    setIPAddressWrapper(basic_string<char\,std::char_traits<char>\,std::allocator<char> >* IsImplicitlyDereferenced): PrivateScope, Public, HideBySig
+    setPortWrapper(Int32): PrivateScope, Public, HideBySig
+    getSocketWrapper(): PrivateScope, Public, HideBySig
+    getNativeConnection(): PrivateScope, Public, HideBySig
+    Dispose(): PrivateScope, Public, Final, Virtual, HideBySig
+Class wrapperModbusTCP.DataQueueWrapper: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Interfaces:
+    System.IDisposable
+  Fields:
+    modbusTCP.DataQueue* dataqueue : Public
+  Methods:
+    pushWrapper(Byte*, Int32): PrivateScope, Public, HideBySig
+    popWrapper(Int32&): PrivateScope, Public, HideBySig
+    isEmptyWrapper(): PrivateScope, Public, HideBySig
+    sizeWrapper(): PrivateScope, Public, HideBySig
+    getNativeDataQueue(): PrivateScope, Public, HideBySig
+    Dispose(): PrivateScope, Public, Final, Virtual, HideBySig
+Class wrapperModbusTCP.DataRetrievalWrapper: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(wrapperModbusTCP.connectionWrapper, wrapperModbusTCP.DataQueueWrapper): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Interfaces:
+    System.IDisposable
+  Fields:
+    modbusTCP.DataRetrieval* dataretrieval : Public
+  Methods:
+    retrieveDataWrapper(): PrivateScope, Public, HideBySig
+    startWrapper(): PrivateScope, Public, HideBySig
+    stopWrapper(): PrivateScope, Public, HideBySig
+    setFunctionCodeWrapper(Byte): PrivateScope, Public, HideBySig
+    setStartAddressWrapper(UInt16): PrivateScope, Public, HideBySig
+    setNumRegistersWrapper(UInt16): PrivateScope, Public, HideBySig
+    Dispose(): PrivateScope, Public, Final, Virtual, HideBySig

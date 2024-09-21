@@ -1,0 +1,2 @@
+C:\code\LGES-Modbus\LGES-Modbus\modbusTCPwrapper\x64\Debug\modbusTCPwrapper.vcxproj.AssemblyReference.cache
+C:\Users\seung\OneDrive\바탕 화면\LGES-Modbus\modbusTCPwrapper\x64\Debug\modbusTCPwrapper.vcxproj.AssemblyReference.cache
