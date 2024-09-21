@@ -1,0 +1,3 @@
+# Ignore IntelliSense and Visual Studio files
+*.ipch
+.vs/
